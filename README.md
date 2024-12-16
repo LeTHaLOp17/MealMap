@@ -22,3 +22,6 @@ The ultimate vision for MealMap is to create a seamless experience where technol
 - MealMap will not just be an app; it will be a lifestyle partner helping users make smart, informed food choices every day.
 
 
+# Design 
+- This isn't the final design it's just a demo
+- https://d7gruavmjw.preview.dora.run/a-meal-health-rate-user-can-check-if-there-food-is-healthy-to-eat-or-not?page=P0K6I0iPH&project=1686573&device=Desktop&high-performance=true
