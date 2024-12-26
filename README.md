@@ -24,4 +24,5 @@ The ultimate vision for MealMap is to create a seamless experience where technol
 
 # Design 
 - This isn't the final design it's just a demo
-- https://d7gruavmjw.preview.dora.run/a-meal-health-rate-user-can-check-if-there-food-is-healthy-to-eat-or-not?page=P0K6I0iPH&project=1686573&device=Desktop&high-performance=true
+- [https://d7gruavmjw.preview.dora.run/a-meal-health-rate-user-can-check-if-there-food-is-healthy-to-eat-or-not?page=P0K6I0iPH&project=1686573&device=Desktop&high-performance=true](https://www.dora.run/e/1686573?page=P0K6I0iPH)
+- 
